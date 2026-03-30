@@ -2,39 +2,36 @@
 
 A modern React project setup powered by Vite for fast development and optimized builds.
 
-## ✨ Features
+✨ Features
 
-* ⚡ **Vite** – Lightning-fast bundler and development server
-* ⚛️ **React** – Modern UI library with hooks and component-based architecture
-* 🔥 **Fast Refresh (HMR)** – Instant updates without losing component state
-* 🧹 **ESLint** – Enforced coding standards and best practices
-* 🎨 **Flexible Styling** – Easy integration with CSS, Tailwind, or other styling solutions
+* Vite – Lightning-fast bundler and development server
+* React – Modern UI library with hooks and component-based architecture
+* Fast Refresh – Instant updates without losing component state
+* ESLint – Enforced coding standards and best practices
+* Flexible Styling – Easy integration with CSS, Tailwind, or other styling solutions
 
+ 🛠️ Getting Started
 
-## 🛠️ Getting Started
-
-### 1. Clone the Repository
+ 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 ```
 
-### 2. Install Dependencies
+ 2. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Start Development Server
+3. Start Development Server
 
 ```bash
 npm run dev
 ```
 
----
-
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```
 ├── public/             # Static assets
@@ -50,25 +47,16 @@ npm run dev
 └── README.md
 ```
 
-## 🚀 Deployment
+ 🚀 Deployment
 
 You can easily deploy your Vite + React app on:
 
-* ▲ **Vercel** – Zero-config deployments
-* 🌐 **Netlify** – Continuous deployment
-* 🐙 **GitHub Pages** – Simple static hosting
+* Vercel – Zero-config deployments
+* Netlify – Continuous deployment
+* GitHub Pages – Simple static hosting
 
----
-
-### 🔧 Build for Production
+ 🔧 Build for Production
 
 ```bash
 npm run build
 ```
-
-### 🔍 Preview Production Build
-
-```bash
-npm run preview
-```
-
